@@ -1,0 +1,14 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.travel_MainDiv{
+    border: 1px solid lightgray;
+}
+.img1{
+    width: 100%;
+}
+.par , header1 {
+    margin: 20px;
+}
